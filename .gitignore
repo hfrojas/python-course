@@ -1,0 +1,114 @@
+# ==========================================
+
+# PYTHON
+
+# ==========================================
+
+# Archivos compilados de Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+
+.venv/
+venv/
+env/
+ENV/
+
+# Distribucion y empaquetado
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Archivos de pruebas y cobertura
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Herramientas de analisis y tipado
+
+.mypy_cache/
+.pytype/
+.ruff_cache/
+.dmypy.json
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Logs
+
+*.log
+
+# Variables de entorno y secretos
+
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+
+*.tmp
+*.bak
+*.swp
+*~
+
+# ==========================================
+
+# PYCHARM / JETBRAINS
+
+# ==========================================
+
+# Configuracion local del IDE
+
+.idea/
+
+# ==========================================
+
+# SISTEMA OPERATIVO
+
+# ==========================================
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+
+.DS_Store
+
+# ==========================================
+
+# EDITORES Y HERRAMIENTAS
+
+# ==========================================
+
+# Visual Studio Code (opcional)
+
+.vscode/
+
+# ==========================================
+
+# ARCHIVOS DE DATOS LOCALES (OPCIONAL)
+
+# ==========================================
+
+# Descomenta estas reglas si no quieres versionar
+
+# archivos Excel o CSV generados localmente.
+
+# *.xlsx
+
+# *.xls
+
+# *.csv

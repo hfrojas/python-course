@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fad44b8-ff62-4b8d-b0cb-908f8c20962d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dia2/Conversiones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dia2/Integers_y_floats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dia2/comisiones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dia2/formaterar_cadena.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dia2/operadores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dia2/redondeo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dia2/variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +36,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Conversiones.executor": "Run",
     "Python.Integers_y_floats.executor": "Run",
+    "Python.comisiones.executor": "Run",
     "Python.formaterar_cadena.executor": "Run",
     "Python.inputScript.executor": "Run",
     "Python.operadores.executor": "Run",
@@ -210,7 +204,7 @@
       <option name="presentableId" value="Default" />
       <updated>1790692215191</updated>
       <workItem from="1790692218368" duration="236000" />
-      <workItem from="1790799579099" duration="10868000" />
+      <workItem from="1790799579099" duration="11099000" />
     </task>
     <servers />
   </component>
@@ -223,6 +217,7 @@
     <SUITE FILE_PATH="coverage/PythonCourse$redondeo.coverage" NAME="redondeo Coverage Results" MODIFIED="1791671311409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dia2" />
     <SUITE FILE_PATH="coverage/PythonCourse$practicaCerveza.coverage" NAME="practicaCerveza Coverage Results" MODIFIED="1790692300820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dia1" />
     <SUITE FILE_PATH="coverage/PythonCourse$Integers_y_floats.coverage" NAME="Integers_y_floats Coverage Results" MODIFIED="1791654770614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dia2" />
+    <SUITE FILE_PATH="coverage/PythonCourse$comisiones.coverage" NAME="comisiones Coverage Results" MODIFIED="1791671681572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dia2" />
     <SUITE FILE_PATH="coverage/PythonCourse$formaterar_cadena.coverage" NAME="formaterar_cadena Coverage Results" MODIFIED="1791669516905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dia2" />
     <SUITE FILE_PATH="coverage/PythonCourse$operadores.coverage" NAME="operadores Coverage Results" MODIFIED="1791670563173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dia2" />
     <SUITE FILE_PATH="coverage/PythonCourse$Conversiones.coverage" NAME="Conversiones Coverage Results" MODIFIED="1791655558982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dia2" />
